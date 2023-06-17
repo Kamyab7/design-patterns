@@ -8,6 +8,6 @@ design problem in your code
 ## List of Design Pattern Implementations
 
 - Creational
-  - [Singleton](/SingletonPattern)  
+  - [Singleton](/Singleton)  
 - Structural
 - Behavioral
