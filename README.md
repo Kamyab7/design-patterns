@@ -8,6 +8,6 @@ design problem in your code
 ## List of Design Pattern Implementations
 
 - Creational
-  - [Singleton](/Singleton)  
+  - [Singleton](https://github.com/Kamyab7/design-patterns/tree/main/src/Singleton)  
 - Structural
 - Behavioral
